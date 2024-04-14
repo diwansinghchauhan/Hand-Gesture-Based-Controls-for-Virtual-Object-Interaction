@@ -39,7 +39,7 @@ This project focuses on implementing hand gesture-based controls for interacting
 - Test and refine the interaction between hand gestures and virtual objects.
 ## Acknowledgements
 
-i would like to thank the creators of OpenCV, CVZone, PyCharm, Unity 3D, and Visual Studio Code for providing the tools and libraries necessary for this project.
+I would like to thank the creators of OpenCV, CVZone, PyCharm, Unity 3D, and Visual Studio Code for providing the tools and libraries necessary for this project.
 
 
 ## Reference
