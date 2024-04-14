@@ -43,6 +43,6 @@ I would like to thank the creators of OpenCV, CVZone, PyCharm, Unity 3D, and Vis
 
 
 ## Reference
-https://www.youtube.com/watch?v=RQ-2JWzNc6k&t=1526s
+Murtaza's Workshop - Robotics and AI
 
 
