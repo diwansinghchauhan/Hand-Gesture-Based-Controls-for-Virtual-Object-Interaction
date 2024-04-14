@@ -1,7 +1,7 @@
 
 # Hand Gesture-Based Controls for Virtual Object Interaction
 
-This project focuses on implementing hand gesture-based controls for interacting with virtual objects in a 3D environment. Using Python's OpenCV and CVZone libraries, we track hand movements in real-time within PyCharm. The tracked data is then transferred to Unity 3D environment for further processing. Additionally, Visual Studio Code is utilized for writing C# code to integrate hand tracking functionality into Unity.
+This project focuses on implementing hand gesture-based controls for interacting with virtual objects in a 3D environment. Using Python's OpenCV and CVZone libraries, i track hand movements in real-time within PyCharm. The tracked data is then transferred to Unity 3D environment for further processing. Additionally, Visual Studio Code is utilized for writing C# code to integrate hand tracking functionality into Unity.
 
 ## Screenshots
 
@@ -39,7 +39,7 @@ This project focuses on implementing hand gesture-based controls for interacting
 - Test and refine the interaction between hand gestures and virtual objects.
 ## Acknowledgements
 
-We would like to thank the creators of OpenCV, CVZone, PyCharm, Unity 3D, and Visual Studio Code for providing the tools and libraries necessary for this project.
+i would like to thank the creators of OpenCV, CVZone, PyCharm, Unity 3D, and Visual Studio Code for providing the tools and libraries necessary for this project.
 
 
 ## Reference
